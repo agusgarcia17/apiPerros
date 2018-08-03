@@ -1,0 +1,5 @@
+Maria Agustina Garcia para Amalgama
+
+Ejercicio de Integracion con API
+
+La App se realizo con React Js, y para poder visualizarla hay que levantarla en la terminal con el comando npm start pero antes instalar los modulos, con npm install, ya que para aligerar el peso no fueron incluidos. El puerto utilizado es el 3000. 
